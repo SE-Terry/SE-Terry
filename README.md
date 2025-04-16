@@ -1,7 +1,7 @@
 ## <h1 align="center">Hi 👋, I'm Terry</h1>
 <h3 align="left">I'm glad to see you here! Pursuing a degree in software engineering, I have experience in both front-end and back-end. I am passionate about programming, writing things, and discovering new places. My approach to software engineering reflects my meticulous attention to detail and a strong desire to create impactful solutions for society. This drives me to work on projects that can make a meaningful difference.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=terry-uit&label=Profile%20views&color=0e75b6&style=flat" alt="terry-uit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SE-Terry&label=Profile%20views&color=0e75b6&style=flat" alt="SE-Terry" /> </p>
 
 - 📫 How to reach me: **se.terry.2004.career@gmail.com**
 - 👨‍💻 My Portfolio: **https://seterry.id.vn/**
