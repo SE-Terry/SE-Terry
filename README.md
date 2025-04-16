@@ -49,6 +49,12 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/>
   </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>
+  </a>
 </p>
 <h5 align="left">  + For Windows desktop application development, respectively:</h5>
 <p align="left">
@@ -90,10 +96,7 @@
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>
-  </a>
+  </a>  
 </p>
 <p style="text-align: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=terry-uit&" alt="terry-uit" />
